@@ -1,0 +1,68 @@
+body {
+  background-color: black;
+}
+.LayoutContainer {
+  background: url("http://www.androidguys.com/wp-content/uploads/2015/06/Super-Hero-Wallpaper-Featured.jpg") no-repeat center;
+  background-size: 130%;
+  min-height: 1000px;
+}
+
+.title {
+  color: #202020;
+  font-weight: 600;
+  background-color: #fff;
+  padding: 10px;
+}
+
+.Header {
+  background-color: transparent;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px !important;
+  color: #fff;
+  height: 100px;
+}
+.Header h1 {
+  font-family: 'Aldrich', sans-serif;
+  background-color: rgba(252, 31, 31, 0.2);
+  font-weight: 700;
+  color: #fff !important;
+  margin-bottom: 0;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.Content {
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px !important;
+}
+
+.Footer {
+  background-color: rgba(252, 31, 31, 0.2);
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px !important;
+  color: #fff;
+}
+
+.CharacterList {
+  background-color: rgba(252, 31, 31, 0.2);
+  text-align: left;
+}
+
+.CharacterList .list {
+  padding: 20px;
+}
+
+.CharacterList .list h4 a {
+  color: #fff !important;
+}
+
+.CharacterList .list h4 {
+  color: #fff;
+}
+
+.CharacterList .list .ant-list-item-meta-description {
+  color: #a0a0a0 !important;
+}

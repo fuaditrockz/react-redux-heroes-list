@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "name": "Fuadit Muhammad",
+    "avatar": "http://res.cloudinary.com/circledoo/image/upload/v1513951978/bosku_s6i8ba.gif",
+    "design": 10,
+    "frontend": 8,
+    "backend": 7,
+    "business": 9
+  },
+  {
+    "id": 1,
+    "name": "Yosef Ernesto",
+    "avatar": "http://res.cloudinary.com/circledoo/image/upload/v1513887596/yosef_yb2sml.png",
+    "design": 1,
+    "frontend": 0,
+    "backend": 0,
+    "business": 4
+  },
+  {
+    "id": 2,
+    "name": "Reinaldy Agung Pramuditha",
+    "avatar": "http://res.cloudinary.com/circledoo/image/upload/v1513887571/rei_yrn0xk.png",
+    "design": 0,
+    "frontend": 0,
+    "backend": 0,
+    "business": 7
+  },
+  {
+    "id": 3,
+    "name": "Bimo Aulia Partawidjaja",
+    "avatar": "http://res.cloudinary.com/circledoo/image/upload/v1513887527/bimo_hgfqwm.png",
+    "design": 2,
+    "frontend": 0,
+    "backend": 0,
+    "business": 0
+  },
+  {
+    "id": 4,
+    "name": "Nando Reza Pratama",
+    "avatar": "http://res.cloudinary.com/circledoo/image/upload/v1513887565/nando_sce5rg.jpg",
+    "design": 9,
+    "frontend": 6,
+    "backend": 1,
+    "business": 0
+  },
+  {
+    "id": 5,
+    "name": "Kevin Hermawan",
+    "avatar": "http://res.cloudinary.com/circledoo/image/upload/v1513887560/kevin_mlosb0.png",
+    "design": 3,
+    "frontend": 10,
+    "backend": 8,
+    "business": 0
+  },
+  {
+    "id": 6,
+    "name": "Rendi Simamora",
+    "avatar": "http://res.cloudinary.com/circledoo/image/upload/v1513887576/rendi_bvkgvq.jpg",
+    "design": 8,
+    "frontend": 7,
+    "backend": 7,
+    "business": 0
+  },
+  {
+    "id": 7,
+    "name": "Siti Fatimah Pangaula",
+    "avatar": "http://res.cloudinary.com/circledoo/image/upload/v1513887590/ula_kkoavc.png",
+    "design": 0,
+    "frontend": 0,
+    "backend": 0,
+    "business": 6
+  },
+  {
+    "id": 8,
+    "name": "Yonathan Putra Widjojo",
+    "avatar": "",
+    "design": 2,
+    "frontend": 7,
+    "backend": 5,
+    "business": 0
+  },
+  {
+    "id": 9,
+    "name": "Rio Surbakti",
+    "avatar": "http://res.cloudinary.com/circledoo/image/upload/v1513887584/rio_uu80vw.jpg",
+    "design": 3,
+    "frontend": 0,
+    "backend": 0,
+    "business": 1
+  }
+]
